@@ -1,0 +1,74 @@
+{
+  "movie": [
+    {
+      "id": "MOVIE_1",
+      "title": "Cruella",
+      "release_date": "2021-05-26",
+      "description": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A0knvX7rlwTyZSKj8H5NiARb45.jpg"
+    },
+    {
+        "id":"MOVIE_2",
+        "title": "Wrath of Man",
+        "description": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+        "release_date": "2021-04-22",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/YxopfHpsCV1oF8CZaL4M3Eodqa.jpg"
+    },
+    {
+      "id":"MOVIE_3",
+       "title": "Zack Snyder's Justice League",
+       "description": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+       "release_date": "2021-03-18",
+       "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg"
+    },
+    {
+      "id":"MOVIE_4",
+      "title": "The Banishing",
+      "description": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+      "release_date": "2021-04-29",
+      "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xD9mc8JCVXA8T8u4Od7qOUBuGH4.jpg"
+    },
+    {
+      "id":"MOVIE_5",
+      "title": "Friends: The Reunion",
+      "description": "The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.",
+      "release_date": "2021-05-27",
+      "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg"
+    },
+    {
+     "id":"MOVIE_6",
+     "title": "Curious George: Go West, Go Wild",
+     "release_date": "2020-08-02",
+     "description": "While farm-sitting, George accidentally lets the farm animals escape. Ted, George and wannabe cowboy Emmett must round 'em up, accounting for every animal -- and emerging with some new skills, to boot.",
+     "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WWOiP8F6PHjXpJrnRZfvO2XNW.jpg"
+    },
+    {
+        "id":"MOVIE_7",
+        "title": "Godzilla vs. Kong",
+        "description": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+        "release_date": "2021-04-22",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg"
+    },
+    {
+        "id":"MOVIE_8",
+        "title": "Army of the Dead",
+        "description": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+        "release_date": "2021-04-22",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg"
+    },
+    {
+        "id":"MOVIE_9",
+        "title": "I Am All Girls",
+        "description": "A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndic.",
+        "release_date": "2021-05-14",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6bUeV4mczG3z2YXXr5XDKPsQzv.jpg"
+    },
+    {
+        "id":"MOVIE_10",
+        "title": "Raya and the Last Dragon",
+        "description": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+        "release_date": "2021-03-03",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg"
+    }
+  ]
+}

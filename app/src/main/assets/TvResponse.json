@@ -1,0 +1,74 @@
+{
+  "tv_show": [
+    {
+      "id": "TVSHOW_1",
+      "title": "Lucifer",
+      "release_date": "2016",
+      "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg"
+    },
+    {
+        "id":"TVSHOW_2",
+        "title": "WandaVision",
+        "description": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+        "release_date": "2021",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/YxopfHpsCV1oF8CZaL4M3Eodqa.jpg"
+    },
+    {
+      "id":"TVSHOW_3",
+       "title": "Elite",
+       "description": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+       "release_date": "2018",
+       "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg"
+    },
+    {
+      "id":"TVSHOW_4",
+      "title": "Haunted: Latin America",
+      "description": "Real people's terrifying tales of the chilling, unexplained and paranormal come to life with dramatic reenactments in this reality series.",
+      "release_date": "2021",
+      "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7au3qp7xw4fQ8eHEsrzWkFMVNm4.jpg"
+    },
+    {
+      "id":"TVSHOW_5",
+      "title": "The Falcon and the Winter Soldier",
+      "description": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+      "release_date": "2021",
+      "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg"
+    },
+    {
+     "id":"TVSHOW_6",
+     "title": "Grey's Anatomy",
+     "release_date": "2005",
+     "description": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+     "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg"
+    },
+    {
+        "id":"TVSHOW_7",
+        "title": "Superman & Lois",
+        "description": "After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
+        "release_date": "2021",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg"
+    },
+    {
+        "id":"TVSHOW_8",
+        "title": "Who Killed Sara?",
+        "description": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit.",
+        "release_date": "2021",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o7uk5ChRt3quPIv8PcvPfzyXdMw.jpg"
+    },
+    {
+        "id":"TVSHOW_9",
+        "title": "The Good Doctor",
+        "description": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives.",
+        "release_date": "2017",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg"
+    },
+    {
+        "id":"TVSHOW_10",
+        "title": "The Flash",
+        "description": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+        "release_date": "2014",
+        "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg"
+    }
+  ]
+}
